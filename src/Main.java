@@ -48,7 +48,7 @@ public class Main {
 
 
     int age = 1;
-        if(age <=2&&age< 6)
+        if(age <=2 && age< 6)
 
     {
         System.out.println("Если возраст человека равен " + age + "  лет , то ему нужно ходить в детский сад");
